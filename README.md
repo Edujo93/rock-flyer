@@ -53,6 +53,7 @@ In the `/assets` folder you have the flyer background. You can also use this fol
 6. Add all the HTML text elements you in order.
 7. You can replace the original band names with the bands you want 😉.
 7. You can organize the text content in `<section>`, `<article>` or `<div>`elements as you need.
+8. Don´t forget to read the **documentation** you will find at the bottom of these instructions 🤓.
 
 ### 🏆 Gives extra points:
 
@@ -62,6 +63,25 @@ In the `/assets` folder you have the flyer background. You can also use this fol
 ### 🚀 Happy coding 🚀
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWxxZXluYm9meXFoc2k3YzZvOHA2MnNoYWd6Zmg4djJ6azA4aWM4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/m4jqqr0kXABqw5a4nb/giphy.gif">
+
+### Essential documentation:
+- [Selectors](https://www.w3schools.com/css/css_selectors.asp)
+- [Text color](https://www.w3schools.com/css/css_text.asp)
+- [Font-family](https://www.w3schools.com/css/css_font.asp)
+- [Font-size](https://www.w3schools.com/cssref/pr_font_font-size.asp)
+- [Font-weight](https://www.w3schools.com/cssref/pr_font_weight.asp)
+- [Text-align](https://www.w3schools.com/cssref/pr_text_text-align.asp)
+- [Word-wrap](https://www.w3schools.com/cssref/css3_pr_word-wrap.asp)
+- [Margin](https://www.w3schools.com/css/css_margin.asp)
+- [Padding](https://www.w3schools.com/css/css_padding.asp)
+
+### Extra text styles docs: 
+- [Line-height](https://www.w3schools.com/cssref/pr_dim_line-height.asp)
+- [Text-decoration](https://www.w3schools.com/cssref/pr_text_text-decoration.asp)
+- [Word-spacing](https://www.w3schools.com/cssref/pr_text_word-spacing.asp)
+- [Writing-mode](https://www.w3schools.com/cssref/css3_pr_writing-mode.asp)
+- [Quotes](https://www.w3schools.com/cssref/pr_gen_quotes.asp)
+- [Hyphens](https://www.w3schools.com/cssref/css3_pr_hyphens.asp)
 
 
 <p style="text-align: right; font-style: italic; margin-top: 80px;">Made with 💜 by SolZeta</p>
