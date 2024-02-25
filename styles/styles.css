@@ -1,0 +1,18 @@
+.background {
+    background: linear-gradient(0deg, rgba(117,117,117,1) 0%, rgba(249,254,255,1) 50%, rgba(117,117,117,1) 100%);
+    display: flex;
+    justify-content: center;
+    width: 100vw;
+    height: 100vh;
+
+}
+
+.flyer {
+    width: 80%;
+    height: auto;
+    /* Complete the path to the flyer.png file inside the parenthesis to use it as a background image */
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
