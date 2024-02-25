@@ -54,7 +54,7 @@ In the `/assets` folder you have the flyer background. You can also use this fol
 7. You can replace the original band names with the bands you want 😉.
 7. You can organize the text content in `<section>`, `<article>` or `<div>`elements as you need.
 
-### Give extra points:
+### 🏆 Gives extra points:
 
 - Include all the icons you see in the flyer. You can use `svg` or `png` files. 
 - How about you investigate how to place the letters inside the first banner following its curved shape?
