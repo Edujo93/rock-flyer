@@ -11,8 +11,18 @@
     width: 80%;
     height: auto;
     /* Complete the path to the flyer.png file inside the parenthesis to use it as a background image */
-    background-image: url();
+    background-image: url(/assets/flyer.png);
     background-repeat: no-repeat;
     background-position: center;
 }
+div.a {
+    text-align: center;
+  }
 
+p.band-xl {
+    font-size: 30px;
+}
+
+p,h1 {
+    margin: 0;
+}
